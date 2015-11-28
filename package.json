@@ -1,0 +1,24 @@
+{
+  "name": "elixir_scraping_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "phantomjs": "^1.9.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "phantomjs": "phantomjs --webdriver=5555",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bokuweb/Elixir_scraping_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bokuweb/Elixir_scraping_sample/issues"
+  },
+  "homepage": "https://github.com/bokuweb/Elixir_scraping_sample#readme"
+}
